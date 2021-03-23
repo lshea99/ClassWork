@@ -1,0 +1,50 @@
+AL, Alabama, 4858979
+AK, Alaska, 738432
+AZ, Arizona, 6828065
+AR, Arkansas, 2978204
+CA, California, 39144818
+CO, Colorado, 5456574
+CT, Connecticut, 3590886
+DE, Delaware, 945934
+FL, Florida, 20271272
+GA, Georgia, 10214860
+HI, Hawaii, 1431603
+ID, Idaho, 1654930
+IL, Illinois, 12859995
+IN, Indiana, 6619680
+IA, Iowa, 3123899
+KS, Kansas, 2911641
+KY, Kentucky, 4425092
+LA, Louisiana, 4670724
+ME, Maine, 1329328
+MD, Maryland, 6006401
+MA, Massachusetts, 6794422
+MI, Michigan, 9922576
+MN, Minnesota, 5489594
+MS, Mississippi, 2992333
+MO, Missouri, 6083672
+MT, Montana, 1032949
+NE, Nebraska, 1896190
+NV, Nevada, 2890845
+NH, New Hampshire, 1330608
+NJ, New Jersey, 8958013
+NM, New Mexico, 2085109
+NY, New York, 19795791
+NC, North Carolina, 10042802
+ND, North Dakota, 756927
+OH, Ohio, 11613423
+OK, Oklahoma, 3911338
+OR, Oregon, 4028977
+PA, Pennsylvania, 12802503
+RI, Rhode Island, 1056298
+SC, South Carolina, 4896146
+SD, South Dakota, 858469
+TN, Tennessee, 6600299
+TX, Texas, 27469114
+UT, Utah, 2995919
+VT, Vermont, 626042
+VA, Virginia, 8382993
+WA, Washington, 7170351
+WV, West Virginia, 1844128
+WI, Wisconsin, 5771337
+WY, Wyoming, 586107

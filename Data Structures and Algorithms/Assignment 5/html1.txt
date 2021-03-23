@@ -1,0 +1,45 @@
+<html>
+<head>
+  <title>
+    Victoria's Journal
+  </title>
+</head>
+
+<body>
+
+    <h1>
+      Victoria's Journal
+    </h1>
+    <h2>
+      So fresh and so clean
+    </h2>
+  
+    <h2>
+        04/09/08:
+      Spatulas
+    </h2>
+  
+    <p>
+      Yesterday I went to the store and got some 
+	  <strong>much-needed
+      </strong> spatulas.
+    </p>
+
+    <h2>
+      04/08/08: Cookie Monster Cupcakes
+    </h2>
+
+    <p>
+      My favorite cartoon character is Cookie Monster, and my favorite dessert is cupcakes, so Cookie Monster cupcakes are the best of both worlds.
+    </p>
+  
+    <p>
+      Did you know? Cookie Monster once said, 
+    <q>
+      Sometimes me think what is love, and then me think love is what last cookie is for. Me give up the last cookie for you. 
+    </q>
+      I wonder if the same applies for cupcakes? (If so, I don't think I can ever love ANYONE!)
+    </p>
+</body>
+
+</html>
